@@ -2,3 +2,5 @@
 2. Figure out which restaurant to go to.
 3. Decide on food.
 4. Place order.  
+5. Drive to restaurant.
+6. Check order to make sure it is accurate.  
