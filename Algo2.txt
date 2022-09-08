@@ -1,5 +1,11 @@
 1. Figure out what to eat.
+    1a. Pizza
+    1b. Hamburgers
+    1c. BBQ
 2. Figure out which restaurant to go to.
+    2a.  Pizza Hut
+    2b.  Red Robin
+    2c.  Best BBQ 
 3. Decide on food.
 4. Place order.  
 5. Drive to restaurant.
